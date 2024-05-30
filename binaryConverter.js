@@ -17,3 +17,5 @@ function binaryConverter(str)
 }
 
 console.log(binaryConverter("1000"));
+// You can even use parseInt() to convert a binary to decimal.
+//console.log(parseInt("1010", 2));
